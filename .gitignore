@@ -4,7 +4,7 @@
 *.csv
 *.Rda
 *.Rdat
-*.numbers
+#*.numbers
 
 *.ps
 *.pdf
